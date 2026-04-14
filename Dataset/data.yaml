@@ -1,0 +1,12 @@
+train: F:/PBL UI/Dataset/images/train
+val: F:/PBL UI/Dataset/images/val
+
+nc: 7
+names:
+  - manual
+  - car
+  - van
+  - truck
+  - dog
+  - cat
+  - person
